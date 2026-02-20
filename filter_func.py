@@ -50,4 +50,3 @@ store=[]
 for i in emails:
      store.append(i.split("@")[1])
 print(store)
-
