@@ -6,3 +6,4 @@ rev=''
 for i in s:
     rev=i+rev
 print(f" result is ",rev)
+
