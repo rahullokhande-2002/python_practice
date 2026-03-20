@@ -18,7 +18,7 @@ class  circle(shape):
         self.r=r
         return 3.14 * r*r
     
-class rectangle(shape):
+class rectangle(shape): 
     def area(self,l,b):
         self.l=l
         self.b=b
@@ -34,3 +34,5 @@ print(f"Area of circle {area_circle}")
 r=rectangle()
 area_rectangle=r.area(22,43)
 print(f"area of the rectangle is {area_rectangle}")
+
+

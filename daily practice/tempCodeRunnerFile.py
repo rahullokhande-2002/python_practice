@@ -1,5 +1,2 @@
-store=input("enter yhe name : ")
-if store=store[::-1]:
-    print("its palindrom")
-else:
-    print("its not")
+for i in names:
+#     if i in not names:

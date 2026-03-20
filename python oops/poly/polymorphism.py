@@ -30,18 +30,35 @@
 
 
 
-class payment:
-    def process_payment(self):
-        print("payment processing...")
-class UPI(payment):
-    def process_payment(self):
-         print("payment UPI processing...")
-class creditcard(payment):
-    def process_payment(self):
-         print("payment creditcard processing...")
-obj2=creditcard()
-obj2.process_payment()
+# class payment:
+#     def process_payment(self):
+#         print("payment processing...")
+# class UPI(payment):
+#     def process_payment(self):
+#          print("payment UPI processing...")
+# class creditcard(payment):
+#     def process_payment(self):
+#          print("payment creditcard processing...")
+# obj2=creditcard()
+# obj2.process_payment()
 
+
+# Goal:
+# Create an abstract class Shape with method area().
+# Then create:
+# Circle # Rectangle
+
+# Steps
+# Create abstract class Shape
+# Create abstract method area()
+# Implement in child classes.
+
+
+
+        
+
+
+    
 
 
 

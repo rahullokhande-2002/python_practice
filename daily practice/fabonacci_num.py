@@ -28,3 +28,6 @@ for i in range(0,num):
     n2=sum
     sum=n1+n2
 print(sum)
+
+
+
